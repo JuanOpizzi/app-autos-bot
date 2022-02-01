@@ -1,0 +1,12 @@
+/target
+.project
+.classpath
+.DS_Store
+.settings
+.env
+*.iml
+**/target
+**/.idea
+*.log
+secret.yaml
+reports
